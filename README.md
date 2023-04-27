@@ -11,10 +11,10 @@ This is the repository for the <a href="https://www.coursera.org/learn/applied-d
         <ul>
           <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%201/Lab_1_Collecting_the_data_with_API.ipynb">Data Collection API Lab</a></li>
             <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%201/Lab%201_1_Data_Collection_with_Web_Scraping.ipynb">Data Collection with Web Scraping lab</a></li>
+          <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%201/Lab_2_Data_Wrangling.ipynb">Data CWrangling</a></li>
         </ul>
       <li>Week 2</li>
           <ul>
-            <li>EDA with SQL lab</li>
             <li>EDA with Visualization lab</li>
           </ul>
       <li>Week 3</li>
