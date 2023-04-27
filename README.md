@@ -1,3 +1,3 @@
-# testrepo
+# Applied Data Science Capstone Course
 
-This is repository made for an assignment in Applied Data Science course in Coursera. 
+This is the repository for the <a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone Course</a> materials.
