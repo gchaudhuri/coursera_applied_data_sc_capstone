@@ -24,7 +24,7 @@ This is the repository for the <a href="https://www.coursera.org/learn/applied-d
           </ul>
       <li>Week 4</li>
           <ul>
-            <li>Machine Learning Prediction lab</li>
+            <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%204/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb">Machine Learning Prediction lab</a></li>
           </ul>
     </ol>
 </ul>
