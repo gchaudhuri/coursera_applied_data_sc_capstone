@@ -15,7 +15,8 @@ This is the repository for the <a href="https://www.coursera.org/learn/applied-d
         </ul>
       <li>Week 2</li>
           <ul>
-            <li>EDA with Visualization lab</li>
+            <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%202/EDA_with_SQL.ipynb">EDA with SQL</a></li>
+            <li><a href = "https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%202/eda-dataviz.ipynb">Exploring and Preparing Data</a></li>
           </ul>
       <li>Week 3</li>
           <ul>
