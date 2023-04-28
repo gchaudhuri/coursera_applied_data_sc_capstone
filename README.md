@@ -21,7 +21,7 @@ This is the repository for the <a href="https://www.coursera.org/learn/applied-d
       <li>Week 3</li>
           <ul>
             <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%203/lab_jupyter_launch_site_location.ipynb">Interactive Visual Analytics with Folium</a></li>
-            <li><a href"https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%203/spacex_dash_app.py">Interactive Dashboard with Plotly Dash</a></li>
+            <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/week%203/spacex_dash_app.py">Interactive Dashboard with Plotly Dash</a></li>
           </ul>
       <li>Week 4</li>
           <ul>
