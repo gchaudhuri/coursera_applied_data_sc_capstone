@@ -1,10 +1,10 @@
 # Applied Data Science Capstone Course
 
-This is the repository for the <a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone Course</a> materials for Coursera's IBM Data Science Professional Certificate completition.
+This is the repository for the <a href="https://www.coursera.org/learn/applied-data-science-capstone">Applied Data Science Capstone Course</a> materials for Coursera's IBM Data Science Professional Certificate completion.
 
 ## Materials to grade:
 <ol>
-  <li>Presentation PDF</li>
+  <li><a href="https://github.com/gchaudhuri/coursera_applied_data_sc_capstone/blob/master/ds-capstone-coursera-gc.pdf">Presentation PDF</a></li>
   <li>Lab assignments according to week assigned:
     <ol>
       <li>Week 1</li>
